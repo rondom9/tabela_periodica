@@ -1,0 +1,41 @@
+h2 {
+    Font-Family: Verdana;
+    Text-align: left;
+
+    font-size: 16px;
+
+    color: gray;
+
+    vertical-align: middle;
+}
+
+    .periódica {
+        Font-Family: Verdana;
+        font-size: 10px;
+}
+
+td {
+    Font-Family: Verdana;
+    text-align: center;
+    font-size: 14px;
+    width: 1px;
+    height: 1px;
+}
+
+
+sup {
+    Font-Family: Verdana;
+    color: gray;
+    margin-left: 0px;
+    font-size: 6px;
+    text-align: center;
+}
+p {
+    Font-Family: Verdana;
+    text-align: left;
+    font-size: 6px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
